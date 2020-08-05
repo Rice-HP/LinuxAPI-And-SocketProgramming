@@ -1,7 +1,5 @@
 # LinuxAPI-And-SocketProgramming
 
-LinuxAPI-And-SocketProgramming
-===============
 Linux下常用的API接口使用的测试用例，实践编程实现相应功能更好理解，以及服务器开发需要的函数及框架.
 
 * linux系统API
